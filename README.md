@@ -1,4 +1,11 @@
-![GergoEB's GitHub stats](https://github-readme-stats.vercel.app/api?username=GergoEB&show_icons=true&bg_color=0c144a&text_color=ffffff&title_color=ffffff&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GergoEB&layout=compact&bg_color=0c144a&text_color=ffffff&title_color=ffffff&hide_border=true)
-
-![](https://komarev.com/ghpvc/?username=GergoEB&color=0c144a&style=for-the-badge)
+###  Official No 🧢 Languages rank
+| Rank | Language | Experience |
+| - | - | - |
+| S | [![Python Badge](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&labelColor=2a567c&logo=python&logoColor=white)]() | Multiple Projects |
+| S | [![C# Badge](https://img.shields.io/badge/-c%23-512BD4?style=for-the-badge&labelColor=3d1a84&logo=sharp&logoColor=white)]() | Multiple Projects |
+| A | [![Java Badge](https://img.shields.io/badge/-java-F78C40?style=for-the-badge&labelColor=b66b30&logo=openjdk&logoColor=white)]() | Multiple Projects |
+| A | [![.NET Badge](https://img.shields.io/badge/-dotnet-512BD4?style=for-the-badge&labelColor=3d1a84&logo=dotnet&logoColor=white)]() | Multiple Projects |
+| B | [![JavaScript Badge](https://img.shields.io/badge/-javascript-F7DF1E?style=for-the-badge&labelColor=d4b600&logo=javascript&logoColor=white)]() | Multiple Projects |
+| C | [![Unity Badge](https://img.shields.io/badge/-unity-ffffff?style=for-the-badge&labelColor=dcdcdc&logo=unity&logoColor=black)]() | Single Project |
+| C | [![CSS Badge](https://img.shields.io/badge/-css-1572B6?style=for-the-badge&labelColor=0f4b7c&logo=css3&logoColor=white)]() | Multiple Projects |
+| C | [![HTML Badge](https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&labelColor=b3361b&logo=html5&logoColor=white)]() | Multiple Projects |
